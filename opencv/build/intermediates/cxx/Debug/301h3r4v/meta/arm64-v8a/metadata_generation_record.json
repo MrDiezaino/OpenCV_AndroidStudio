@@ -1,0 +1,324 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: arm64-v8a",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 154715307
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/301h3r4v/arm64-v8a/android_gradle_build.json due to:",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1601183085
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/301h3r4v/arm64-v8a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -510499123
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/301h3r4v/arm64-v8a/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -153409525
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -368305447
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/301h3r4v/arm64-v8a\u0027",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -977026790
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/301h3r4v/arm64-v8a\u0027",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 30277262
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : /usr/bin/cmake\narguments : \n-H/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DANDROID_NDK\u003d/home/enxenia/Android/Sdk/ndk/21.4.7075529\n-DCMAKE_ANDROID_NDK\u003d/home/enxenia/Android/Sdk/ndk/21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003d/home/enxenia/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/301h3r4v/obj/arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/301h3r4v/obj/arm64-v8a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/301h3r4v/arm64-v8a\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 524606943
+  },
+  {
+    "level_": 0,
+    "message_": "\n",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1684017303
+  },
+  {
+    "level_": 0,
+    "message_": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 506901361
+  },
+  {
+    "level_": 0,
+    "message_": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -208483248
+  },
+  {
+    "level_": 0,
+    "message_": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1099266767
+  },
+  {
+    "level_": 0,
+    "message_": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper\",\n  \"buildDirectory\": \"/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/301h3r4v/arm64-v8a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -771806151
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 908976562
+  },
+  {
+    "level_": 0,
+    "message_": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d21\",\n    \"-DANDROID_PLATFORM\\u003dandroid-21\",\n    \"-DANDROID_ABI\\u003darm64-v8a\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darm64-v8a\",\n    \"-DANDROID_NDK\\u003d/home/enxenia/Android/Sdk/ndk/21.4.7075529\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/home/enxenia/Android/Sdk/ndk/21.4.7075529\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/home/enxenia/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/301h3r4v/obj/arm64-v8a\",\n    \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\\u003d/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/301h3r4v/obj/arm64-v8a\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\",\n    \"-DANDROID_STL\\u003dc++_shared\"\n  ]\n}\n",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1278806337
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Error: CMake was unable to find a build program corresponding to \\\"Ninja\\\".  CMAKE_MAKE_PROGRAM is not set.  You probably need to select a different build tool.\",\"title\":\"Error\",\"type\":\"message\"}\n",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 401471871
+  },
+  {
+    "level_": 3,
+    "message_": "CMake Error: CMake was unable to find a build program corresponding to \"Ninja\".  CMAKE_MAKE_PROGRAM is not set.  You probably need to select a different build tool.",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 528647352
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1007854971
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring incomplete, errors occurred!\\nSee also \\\"/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/301h3r4v/arm64-v8a/CMakeFiles/CMakeOutput.log\\\".\",\"type\":\"message\"}\n",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -296435590
+  },
+  {
+    "level_": 0,
+    "message_": "Configuring incomplete, errors occurred!\nSee also \"/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/301h3r4v/arm64-v8a/CMakeFiles/CMakeOutput.log\".",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 468427484
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"errorMessage\":\"Configuration failed.\",\"inReplyTo\":\"configure\",\"type\":\"error\"}\n",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1459712669
+  },
+  {
+    "level_": 3,
+    "message_": "Configuration failed.",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1781889233
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed with problem. Exception: com.android.ide.common.process.ProcessException: Error configuring CMake server (/usr/bin).\r\nCMake Error: CMake was unable to find a build program corresponding to \"Ninja\".  CMAKE_MAKE_PROGRAM is not set.  You probably need to select a different build tool.\nConfiguring incomplete, errors occurred!\nSee also \"/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/301h3r4v/arm64-v8a/CMakeFiles/CMakeOutput.log\".\n",
+    "file_": "/home/enxenia/Documentos/WorkSpace/AndroidStudio/SDK/opencv-4.5.5-android-sdk/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1223897851
+  }
+]

@@ -1,0 +1,1 @@
+/home/enxenia/AndroidStudioProjects/OpenCV_45/opencv/build/intermediates/cxx/Debug/2r4x6l4d/obj/x86
